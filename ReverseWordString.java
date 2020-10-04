@@ -3,7 +3,7 @@ public class ReverseWordString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s=" The sky is blue ";
-System.out.println(s);
+// 		System.out.println(s);
 		reversewords(s);
 	}
 	public static void reversewords(String s)
